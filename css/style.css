@@ -5,10 +5,18 @@
 }
 body {
     background-color: rgb(129, 71, 71);
-    color: rgb(66, 40, 11);
+    color: rgb(240, 225, 209);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 23px;
 }
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cabecera{
+    background-color: brown;
+    color: wheat;
+    font-size: 32px;
 }
