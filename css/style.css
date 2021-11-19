@@ -31,3 +31,39 @@ h1{
 .pnuevo {
     color: coral;
 }
+
+footer {
+    width: 100%;
+    height: 50px;
+
+    /*con esto aseguramos que el footer siempre este abajo en la pagina*/
+    position: absolute;
+    bottom: 0;
+    /***********************************************************************/
+
+    /*se genera una cuadricula con diplay grid y con template colum se fracciona en dos en este caso*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    align-items: center;
+    font-size: 13px;
+    background-color: #000;
+    border-top: 1px solid #e4e4e4;
+}
+
+footer ul {
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+footer .footer-left {
+    justify-content: left;
+}
+footer .footer-right {
+    justify-content: right;
+}
+footer ul li a {
+    margin: 10px;
+    color: #5f6368;
+}
