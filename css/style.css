@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(129, 71, 71);
+    background-color: rgb(17, 1, 1);
     color: rgb(240, 225, 209);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
@@ -17,9 +17,15 @@ h1{
 }
 
 #cabecera{
-    background-color: brown;
+    background-color: rgb(31, 2, 2);
     color: wheat;
     font-size: 32px;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+}
+#cabecera img {
+    margin: 7px;
 }
 
 .pnuevo {
