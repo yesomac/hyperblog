@@ -1,4 +1,4 @@
-# hyperblog :tw-1f316:
+# hyperblog :cry:
 Un blog increible para el curso de Git y GitHud en Platzi
 
 # El futuro es ahora
