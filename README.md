@@ -8,4 +8,4 @@ Un blog increible para el curso de Git y GitHud en Platzi
 #Costantemente mirando hacia adelante
 :tw-1f603: :tw-1f60c: :tw-1f609: :tw-1f68d: :tw-1f689: :tw-2049: :tw-203c: :tw-1f6b2: :tw-1f6b4: :tw-1f6b5:
 
-Este es mi primer humilde README.md
+Este es mi primer humilde README.md.
