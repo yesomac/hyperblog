@@ -3,6 +3,8 @@ Oe
 ABCdefHIJklmNÑOpqrSTVwxyZ
 Hey
 
+Hace poco probando el odioso rebase termine afectando mi main, por eso no he hecho puss, espero que este clone me salve del calvario
+
 Ahora estoy como conlaborador de este proyecto, ya no formo parte oficial de el
 porque tinee que ser tan dificil, estoy realmente puto y mas ciandp ahora encima de todo se me borro parte de lo que habia escito antes en este archivo
 
