@@ -26,3 +26,4 @@ Por alguna razon las image
 # GENERANDO UN TITULO PARA PRACTICAR CHERRY-PICK
 
 * en cambio este codigo no sera requerido
+* soy impaciente cuando lass cosas no me funcionan
