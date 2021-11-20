@@ -12,3 +12,11 @@ Este es mi primer humilde README.md.
 
 Por alguna razon las imagenes no funcionan ahora
 Por alguna razon las image
+
+* Estoy agregando algunos cambios al readme
+* Te apoyo es necesario para probar el cherry-pick 
+* La linea anterior se escribe desde un stash en una nueva rama
+
+# Este titulo es producto de un Cherry-Pick
+
+# Este titulo es producto de un Cherry-Pick
