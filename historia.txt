@@ -10,5 +10,9 @@ maldita cea
 
 Master 1
 
+<<<<<<< HEAD
 Experimento 1 Rebase
 Experimento 2 Rebase
+=======
+Master 2
+>>>>>>> 96770fc (Master 2)
