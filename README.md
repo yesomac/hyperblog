@@ -24,3 +24,5 @@ Por alguna razon las image
 * Algunos de los cambios arriba no derian salir aqui
 
 # GENERANDO UN TITULO PARA PRACTICAR CHERRY-PICK
+
+* en cambio este codigo no sera requerido
